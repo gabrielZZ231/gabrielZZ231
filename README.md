@@ -1,4 +1,4 @@
-<h1 align="center">Olá👋, Me chamo Gabriel Silva</h1>
+<h1 align="center">Hi 👋, I'm Gabriel Silva</h1>
 <h3 align="center">"640K é mais memória do que qualquer pessoa vai precisar"- Bill Gates</h3>
 
 - 💬 Sobre mim **Gosto muito da área da Engenharia de Software, atualmente sou formado no IFPE com técnico em informática voltado para a área de desenvolvimento de sistemas. Em meu tempo livre gosto de pesquisar novidades no campo da tecnologia, de jogar e de assistir filmes ou séries também gosto de me exercitar todos os dias.**
@@ -16,3 +16,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielzz231&show_icons=true&locale=en&layout=compact" alt="gabrielzz231" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielzz231&show_icons=true&locale=en" alt="gabrielzz231" /></p>
+
