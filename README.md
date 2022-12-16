@@ -1,5 +1,7 @@
 <h1 align="center">Olá👋, Me chamo Gabriel Silva</h1>
-<h3 align="center">Sou Desenvolvedor, gosto muito da Engenharia de Software, formado no IFPE com técnico em informática.</h3>
+<h3 align="center">"640K é mais memória do que qualquer pessoa vai precisar"- Bill Gates</h3>
+
+- 💬 Sobre mim **Gosto muito da área da Engenharia de Software, atualmente sou formado no IFPE com técnico em informática voltado para a área de desenvolvimento de sistemas. Em meu tempo livre gosto de pesquisar novidades no campo da tecnologia, de jogar e de assistir filmes ou séries também gosto de me exercitar todos os dias.**
 
 - 📫 Como chegar até mim **gabriel1235897@gmail.com**
 
