@@ -1,4 +1,6 @@
-<h1 align="center">Olá, eu sou Gabriel Silva 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Gabriel+Silva+%F0%9F%91%8B" alt="Olá, eu sou Gabriel Silva 👋" />
+</h1>
 
 <p align="center">
   <em>Desenvolvedor de Software | Bacharelando em Ciência da Computação (UFAPE)</em>
