@@ -1,13 +1,18 @@
 <h1 align="center">Olá, eu sou Gabriel Silva 👋</h1>
 
 <p align="center">
-  <em>Desenvolvedor de Software | Bacharelando em Ciência da Computação (UFAPE)</em>
+  <em>Bacharelando em Ciência da Computação (UFAPE)</em>
 </p>
 
 <p align="center">
   <a href="https://github.com/gabrielZZ231">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Engenheiro+de+Software+Backend;Entusiasta+em+IA+e+Agentes;Desenvolvedor+Java+%7C+Ruby+%7C+PHP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <strong>Desenvolvedor Java | Ruby | PHP</strong> <br>
+  <em>Entusiasta em IA e Agentes</em>
 </p>
 
 <p align="center">
@@ -23,11 +28,11 @@
 
 ### 👨‍💻 Sobre Mim
 
-[cite_start]Sou técnico em informática pelo **IFPE** [cite: 49, 50] [cite_start]e atualmente estudo **Ciência da Computação na UFAPE**[cite: 49]. [cite_start]Sou um Engenheiro de Software Backend especializado no ecossistema Java (Spring Boot), com domínio em múltiplas stacks, como Ruby on Rails e PHP (Laravel)[cite: 4]. [cite_start]Tenho foco no desenvolvimento de arquiteturas escaláveis, sistemas críticos e na integração de IA (LLMs, RAG, n8n) em fluxos corporativos[cite: 5, 6].
+Sou técnico em informática pelo **IFPE** e atualmente estudo **Ciência da Computação na UFAPE**. Sou um Engenheiro de Software Backend especializado no ecossistema Java (Spring Boot), com domínio em múltiplas stacks, como Ruby on Rails e PHP (Laravel). Tenho foco no desenvolvimento de arquiteturas escaláveis, sistemas críticos e na integração de IA (LLMs, RAG, n8n) em fluxos corporativos.
 
-* [cite_start]💼 **Experiência Atual:** Desenvolvedor Fullstack no **Instituto Paulo Freire**, garantindo alta disponibilidade para o sistema ALFA EJA e otimizando a importação de dados para o sistema universitário "Engaja"[cite: 13, 16, 18].
-* [cite_start]🏢 **Background:** Atuei na **Tracking Trade** construindo soluções backend em Ruby on Rails para clientes globais (LG e Whirlpool), onde alcancei 62% de melhoria na otimização de queries SQL no PostgreSQL[cite: 20, 23, 24].
-* [cite_start]🏆 **Conquistas:** Sou inventor com patente registrada por inovação científica com o sistema WebParasitour[cite: 6, 38, 40].
+* 💼 **Experiência Atual:** Desenvolvedor Fullstack no **Instituto Paulo Freire**, garantindo alta disponibilidade para o sistema ALFA EJA e otimizando a importação de dados para o sistema universitário "Engaja".
+* 🏢 **Background:** Atuei na **Tracking Trade** construindo soluções backend em Ruby on Rails para clientes globais (LG e Whirlpool), onde alcancei 62% de melhoria na otimização de queries SQL no PostgreSQL.
+* 🏆 **Conquistas:** Sou inventor com patente registrada por inovação científica com o sistema WebParasitour.
 * 🔭 **Projetos Atuais:** Construindo o *Saúde IA* (Nutricionista e Personal Trainer com IA via n8n/Supabase) e desenhando um analisador de currículos baseado em RAG. 
 * ⚡ **Hobbies:** Pesquisar tecnologias emergentes, manter meu shape de atleta natural na academia e aprimorar o inglês maratonando sitcoms como *The Office*.
 
