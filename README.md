@@ -11,8 +11,7 @@
 </p>
 
 <p align="center">
-  <strong>Desenvolvedor Java | Ruby | PHP</strong> <br>
-  <em>Entusiasta em IA e Agentes</em>
+  <strong>Java | Ruby | PHP</strong> <br>
 </p>
 
 <p align="center">
