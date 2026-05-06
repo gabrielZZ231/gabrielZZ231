@@ -21,7 +21,8 @@
 
 Sou técnico em informática formado pelo **IFPE** e atualmente estudo **Ciência da Computação na UFAPE**. Tenho paixão pela Engenharia de Software e foco no desenvolvimento de sistemas robustos e escaláveis.
 
-* 💼 **Experiência:** Atuei como estagiário/desenvolvedor na **Tracking Trade**, focando em Ruby on Rails, APIs e testes automatizados.
+* 💼 **Experiência Atual:** Atuo como desenvolvedor de software no Instituto Paulo Freire, focando no desenvolvimento Fullstack com Laravel, criação de interfaces responsivas e APIs.
+* 💼 **Experiência Anterior:** Atuei como estagiário/desenvolvedor na **Tracking Trade**, focando em Ruby on Rails, APIs e testes automatizados.
 * 🔭 **Atualmente:** Estudando arquitetura de software e novas tecnologias Back-end.
 * ⚡ **Hobbies:** Pesquisar tendências tech, jogar, assistir filmes/séries e me exercitar.
 
